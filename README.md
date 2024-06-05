@@ -1,2 +1,2 @@
 # CoreR
-am I new TruLone???
+C++ GDI trojan by red-wipet
